@@ -1,3 +1,5 @@
 hi this is first Git course 2nd file...git
 
 processing the data
+
+created an avatar for user
